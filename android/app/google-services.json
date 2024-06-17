@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "691349494771",
+    "project_id": "authtest-1ff83",
+    "storage_bucket": "authtest-1ff83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691349494771:android:11f10087a0fea26a01d086",
+        "android_client_info": {
+          "package_name": "com.ladagranat.tomorrow_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJNi3N7DQNqeJmF3mjnlFHYNxxt57I3XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691349494771:android:6c364d838c41d91a01d086",
+        "android_client_info": {
+          "package_name": "com.tmrrw.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJNi3N7DQNqeJmF3mjnlFHYNxxt57I3XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
